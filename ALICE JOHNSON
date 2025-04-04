@@ -1,0 +1,7 @@
+NAME = 'Alice'
+surname='Johnson'
+age='25'
+print(f"hello my name is {NAME} {surname} I am {age} years old")#fstring
+
+concat="hello my name is "+NAME+" "+surname+" I am "+age+"years old"
+print(concat)
